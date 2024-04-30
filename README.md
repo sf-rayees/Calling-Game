@@ -29,3 +29,8 @@ The Contact Management System is a Java application that enables users to manage
 - Create a Java Project.
 - Download and replace the project App.java present in file/src with the Repository App.java.
 - Run the Java Application: You can run your Java application directly from Visual Studio Code. Open the Java file containing your main method, right-click, and select "Run Java".
+
+  ## Developer: Sheikh Faisal Rayees
+  
+```html
+<font color="red">This text is red.</font>
