@@ -25,7 +25,7 @@ The Contact Management System is a Java application that enables users to manage
 - create a database named "project1".
 - Create a table with name "user" and with the following details:
   <br>
-  ![user](https://github.com/sf-rayees/Bank-Management-System/assets/161186699/41a9358c-326f-4f0b-92c7-aa788b6c1e5c)
+  ![contact](https://github.com/sf-rayees/Calling-Game/assets/161186699/8271e6dd-ab12-44e6-b014-32e622056f6a)
 - Download Connector/J and set it up.
 - Create a Java Project.
 - Download and replace the project App.java present in file/src with the Repository App.java.
